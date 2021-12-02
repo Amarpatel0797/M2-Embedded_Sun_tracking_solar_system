@@ -13,7 +13,7 @@ void setup()
   Serial.begin(9600);
   myservo.write(pos);   
 }
-
+ 
  
     
 void loop() s
